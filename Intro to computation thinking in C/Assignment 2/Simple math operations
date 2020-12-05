@@ -20,9 +20,15 @@
  For example, if the 3 integers are 1, 2, and 2, your output should be the following on a single line (be sure to include a newline at the end) :
  1 2 2
  5 1.67
+ 
  2 2 2
  6 2.00
- q
+ 
+ q  (Program exits with q)
+ 
+ ********************************** TEST CASE WRITE IN THE SAME LINE e.g. " 1 SPACE 2 SPACE 2 " **************************************************
+   it should give " 5 1.67 "
+ 
  */
 
 #define _CRT_SECURE_NO_WARNINGS
